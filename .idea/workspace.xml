@@ -4,49 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f27cc5b-4c45-4b14-ba0c-3d9215c428ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../2121-jpa-hibernate-persistencia-projeto_inicial/src/main/java/br/com/seteideias/loja/modelo/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2121-jpa-hibernate-persistencia-projeto_inicial/src/main/java/br/com/seteideias/loja/testes/CadastroDeProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2121-jpa-hibernate-persistencia-projeto_inicial/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2021_18_50_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2021_18_50__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/sonarIssues.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/start/Projetospringdevdojo2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/start/Projetospringdevdojo2Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Praticando.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0001_methodReference/ExemplosComMethodReference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0002_designPatterns/Strategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0003_streams/Collect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0003_streams/Reduce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0003_streams/Streams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0004_interfaces/Interfaces_default_implementacoesLivres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0005_optional/Optional.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0006_numerosInteiros/Inteiros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0007_Polimorfismo/OperacaoMatematica.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0008_cast/Cast.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0008_cast/model/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0008_cast/model/ContaCorrente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0008_cast/model/ContaPoupanca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/model/Clientes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/model/Pessoas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/aula0001_methodReference/ExemplosComMethodReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/aula0002_designPatterns/Strategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/aula0003_streams/Streams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/model/Clientes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/model/Pessoas.class" beforeDir="false" />
-    </list>
+    <list default="true" id="5f27cc5b-4c45-4b14-ba0c-3d9215c428ac" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
