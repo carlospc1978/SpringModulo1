@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f27cc5b-4c45-4b14-ba0c-3d9215c428ac" name="Changes" comment="">
+    <list default="true" id="5f27cc5b-4c45-4b14-ba0c-3d9215c428ac" name="Changes" comment="comm">
       <change afterPath="$PROJECT_DIR$/../2121-jpa-hibernate-persistencia-projeto_inicial/src/main/java/br/com/seteideias/loja/modelo/Produto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2121-jpa-hibernate-persistencia-projeto_inicial/src/main/java/br/com/seteideias/loja/testes/CadastroDeProduto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2121-jpa-hibernate-persistencia-projeto_inicial/src/main/resources/META-INF/persistence.xml" afterDir="false" />
@@ -53,6 +53,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -116,6 +121,14 @@
       <option name="presentableId" value="Default" />
       <updated>1635540977716</updated>
     </task>
+    <task id="LOCAL-00001" summary="comm">
+      <created>1635542113483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635542113483</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,5 +142,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comm" />
+    <option name="LAST_COMMIT_MESSAGE" value="comm" />
   </component>
 </project>

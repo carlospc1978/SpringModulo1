@@ -12,4 +12,5 @@ public class Projetospringdevdojo2Application {
 		SpringApplication.run(Projetospringdevdojo2Application.class, args);
 	}
 
+
 }
