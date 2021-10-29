@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f27cc5b-4c45-4b14-ba0c-3d9215c428ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../2121-jpa-hibernate-persistencia-projeto_inicial/src/main/java/br/com/seteideias/loja/modelo/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2121-jpa-hibernate-persistencia-projeto_inicial/src/main/java/br/com/seteideias/loja/testes/CadastroDeProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2121-jpa-hibernate-persistencia-projeto_inicial/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/controller/AnimeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/domain/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/projetospringdevdojo2/Projetospringdevdojo2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2021_18_50_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2021_18_50__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarIssues.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Praticando.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0001_methodReference/ExemplosComMethodReference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0002_designPatterns/Strategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0003_streams/Collect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0003_streams/Reduce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0003_streams/Streams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0004_interfaces/Interfaces_default_implementacoesLivres.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0005_optional/Optional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0006_numerosInteiros/Inteiros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0007_Polimorfismo/OperacaoMatematica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0008_cast/Cast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0008_cast/model/Conta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0008_cast/model/ContaCorrente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/aula0008_cast/model/ContaPoupanca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/model/Clientes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/model/Pessoas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/aula0001_methodReference/ExemplosComMethodReference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/aula0002_designPatterns/Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/aula0003_streams/Streams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/model/Clientes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/model/Pessoas.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20CG62qHjP49Ea1ZXqNG7LEOHtL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Qintess\Documents\Dev\DevDojo\src\main\java\br\com\seteideias\projetospringdevdojo2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Projetospringdevdojo2Application (1)">
+    <configuration name="Projetospringdevdojo2Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.seteideias.projetospringdevdojo2.start.Projetospringdevdojo2Application" />
+      <module name="projetospringdevdojo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.seteideias.projetospringdevdojo2.start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Projetospringdevdojo2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.seteideias.projetospringdevdojo2.projetospringdevdojo2.Projetospringdevdojo2Application" />
+      <module name="projetospringdevdojo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.seteideias.projetospringdevdojo2.projetospringdevdojo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Projetospringdevdojo2Application (1)" />
+        <item itemvalue="Application.Projetospringdevdojo2Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f27cc5b-4c45-4b14-ba0c-3d9215c428ac" name="Changes" comment="" />
+      <created>1635540977716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635540977716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
