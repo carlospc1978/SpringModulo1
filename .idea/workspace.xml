@@ -8,9 +8,7 @@
       <change afterPath="$PROJECT_DIR$/../2121-jpa-hibernate-persistencia-projeto_inicial/src/main/java/br/com/seteideias/loja/modelo/Produto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2121-jpa-hibernate-persistencia-projeto_inicial/src/main/java/br/com/seteideias/loja/testes/CadastroDeProduto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2121-jpa-hibernate-persistencia-projeto_inicial/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/controller/AnimeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/domain/Anime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/projetospringdevdojo2/Projetospringdevdojo2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
@@ -24,6 +22,8 @@
       <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/start/Projetospringdevdojo2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/start/Projetospringdevdojo2Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Praticando.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/main/java/aula0001_methodReference/ExemplosComMethodReference.java" beforeDir="false" />
@@ -53,7 +53,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="20CG62qHjP49Ea1ZXqNG7LEOHtL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -127,5 +128,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
