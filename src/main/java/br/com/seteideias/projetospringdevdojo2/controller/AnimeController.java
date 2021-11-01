@@ -17,4 +17,9 @@ public class AnimeController {
         return List.of(new Anime("He-man"),new Anime("She-ha"));
     }
 
+    @GetMapping(path = "teste")
+    public String textoInicial(){
+        return "<html>Texto de <b>exemplo</b></html>";
+    }
+
 }
