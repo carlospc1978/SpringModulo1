@@ -1,15 +1,13 @@
 package br.com.seteideias.projetospringdevdojo2.domain;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 
 @Data
+@AllArgsConstructor
 public class Anime {
 
-    private long id;
+    private Long id;
     private String name;
 
-    public Anime(long id, String name) {
-        this.id = id;
-        this.name = name;
-    }
 }
