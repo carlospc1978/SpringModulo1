@@ -1,6 +1,7 @@
 package br.com.seteideias.projetospringdevdojo2.controller;
 
 import br.com.seteideias.projetospringdevdojo2.domain.Anime;
+import br.com.seteideias.projetospringdevdojo2.service.AnimeService;
 import br.com.seteideias.projetospringdevdojo2.util.DateUtil;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
@@ -19,15 +20,13 @@ public class AnimeController {
 
     private final DateUtil dateUtil;
 
+    private final AnimeService animeService;
+
     @GetMapping//(path = "list")
     public List<Anime> list(){
         log.info(dateUtil.formatLocalDateTimeToDataBaseStyle(LocalDateTime.now()));
-        return List.of(new Anime("He-man"),new Anime("She-haa"),new Anime("ThunderCats"));
+        return animeService.listAll();
     }
 
-    @GetMapping(path = "teste")
-    public String textoInicial(){
-        return "<html>Texto de <b>exemplo</b></html>";
-    }
 
 }
