@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f27cc5b-4c45-4b14-ba0c-3d9215c428ac" name="Changes" comment="commit fcam">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/util/DateUtil.java" afterDir="false" />
+    <list default="true" id="5f27cc5b-4c45-4b14-ba0c-3d9215c428ac" name="Changes" comment="atualizacao docker compose">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/repository/AnimeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/controller/AnimeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/controller/AnimeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/projetospringdevdojo2/Projetospringdevdojo2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/projetospringdevdojo2/Projetospringdevdojo2Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/start/Projetospringdevdojo2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/Projetospringdevdojo2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetospringdevdojo2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/projetospringdevdojo2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/br/com/seteideias/projetospringdevdojo2/controller/AnimeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/seteideias/projetospringdevdojo2/controller/AnimeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/seteideias/projetospringdevdojo2/projetospringdevdojo2/Projetospringdevdojo2Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/seteideias/projetospringdevdojo2/projetospringdevdojo2/Projetospringdevdojo2Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/seteideias/projetospringdevdojo2/start/Projetospringdevdojo2Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/seteideias/projetospringdevdojo2/domain/Anime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/seteideias/projetospringdevdojo2/domain/Anime.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +23,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -40,10 +46,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -54,6 +60,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Projetospringdevdojo2Application (1)">
+    <configuration name="Projetospringdevdojo2Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.seteideias.projetospringdevdojo2.Projetospringdevdojo2Application" />
+      <module name="projetospringdevdojo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.seteideias.projetospringdevdojo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Projetospringdevdojo2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.seteideias.projetospringdevdojo2.projetospringdevdojo2.Projetospringdevdojo2Application" />
       <module name="projetospringdevdojo2" />
@@ -88,6 +107,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\carlos.cartaxo\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5f27cc5b-4c45-4b14-ba0c-3d9215c428ac" name="Changes" comment="" />
@@ -103,7 +125,49 @@
       <option name="project" value="LOCAL" />
       <updated>1635542932889</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit fcam">
+      <created>1635773278665</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635773278665</updated>
+    </task>
+    <task id="LOCAL-00003" summary="modificacoes">
+      <created>1635884727847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635884727847</updated>
+    </task>
+    <task id="LOCAL-00004" summary="modificacoes e gitignore">
+      <created>1635945057156</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635945057156</updated>
+    </task>
+    <task id="LOCAL-00005" summary="modify">
+      <created>1635951090979</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635951090979</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new branch">
+      <created>1635951123345</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635951123345</updated>
+    </task>
+    <task id="LOCAL-00007" summary="atualizacao docker compose">
+      <created>1635956778690</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1635956778690</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,7 +183,19 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="commit fcam" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit fcam" />
+    <MESSAGE value="modificacoes" />
+    <MESSAGE value="modificacoes e gitignore" />
+    <MESSAGE value="modify" />
+    <MESSAGE value="new branch" />
+    <MESSAGE value="atualizacao docker compose" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizacao docker compose" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
