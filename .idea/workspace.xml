@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f27cc5b-4c45-4b14-ba0c-3d9215c428ac" name="Changes" comment="atualizacoes no gitignore">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_4_13_SNAPSHOT.xml" beforeDir="false" />
+    <list default="true" id="5f27cc5b-4c45-4b14-ba0c-3d9215c428ac" name="Changes" comment="commit fcam">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetospringdevdojo2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/projetospringdevdojo2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/controller/AnimeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/controller/AnimeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/service/AnimeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/service/AnimeService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/seteideias/projetospringdevdojo2/controller/AnimeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/seteideias/projetospringdevdojo2/controller/AnimeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/seteideias/projetospringdevdojo2/domain/Anime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/seteideias/projetospringdevdojo2/domain/Anime.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,19 +21,25 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="Qin" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Structure" value="false" />
+      </map>
+    </option>
   </component>
   <component name="ProjectId" id="20CG62qHjP49Ea1ZXqNG7LEOHtL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,10 +50,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="TODO_SCOPE" value="All Places" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -100,9 +111,6 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\carlos.cartaxo\AppData\Roaming\Subversion</configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5f27cc5b-4c45-4b14-ba0c-3d9215c428ac" name="Changes" comment="" />
@@ -118,70 +126,7 @@
       <option name="project" value="LOCAL" />
       <updated>1635542932889</updated>
     </task>
-    <task id="LOCAL-00002" summary="commit fcam">
-      <created>1635773278665</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1635773278665</updated>
-    </task>
-    <task id="LOCAL-00003" summary="modificacoes">
-      <created>1635884727847</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1635884727847</updated>
-    </task>
-    <task id="LOCAL-00004" summary="modificacoes e gitignore">
-      <created>1635945057156</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1635945057156</updated>
-    </task>
-    <task id="LOCAL-00005" summary="modify">
-      <created>1635951090979</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1635951090979</updated>
-    </task>
-    <task id="LOCAL-00006" summary="new branch">
-      <created>1635951123345</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1635951123345</updated>
-    </task>
-    <task id="LOCAL-00007" summary="atualizacao docker compose">
-      <created>1635956778690</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1635956778690</updated>
-    </task>
-    <task id="LOCAL-00008" summary="atualizacoes">
-      <created>1635968803266</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1635968803266</updated>
-    </task>
-    <task id="LOCAL-00009" summary="atualizacoes">
-      <created>1635969012878</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1635969012878</updated>
-    </task>
-    <task id="LOCAL-00010" summary="atualizacoes">
-      <created>1635969020420</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1635969020420</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,20 +142,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/.." />
-    </ignored-roots>
     <MESSAGE value="commit fcam" />
-    <MESSAGE value="modificacoes" />
-    <MESSAGE value="modificacoes e gitignore" />
-    <MESSAGE value="modify" />
-    <MESSAGE value="new branch" />
-    <MESSAGE value="atualizacao docker compose" />
-    <MESSAGE value="atualizacoes" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualizacoes" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+    <option name="LAST_COMMIT_MESSAGE" value="commit fcam" />
   </component>
 </project>
