@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f27cc5b-4c45-4b14-ba0c-3d9215c428ac" name="Changes" comment="commit fcam">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_4_13_SNAPSHOT.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetospringdevdojo2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/projetospringdevdojo2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/controller/AnimeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/controller/AnimeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/service/AnimeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/seteideias/projetospringdevdojo2/service/AnimeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/seteideias/projetospringdevdojo2/controller/AnimeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/seteideias/projetospringdevdojo2/controller/AnimeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/seteideias/projetospringdevdojo2/domain/Anime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/seteideias/projetospringdevdojo2/domain/Anime.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="fcam" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
